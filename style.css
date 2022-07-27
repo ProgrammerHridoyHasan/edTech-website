@@ -1,3 +1,15 @@
 body{
       font-family: 'Poppins', sans-serif;  
 }
+.fa-facebook{
+    color: #4267B2;
+}
+.fa-linkedin{
+    color: #0072b1;
+}
+.fa-twitter{
+    color: #00acee;
+}
+.fa-instagram{
+    color: #C13584;
+}
